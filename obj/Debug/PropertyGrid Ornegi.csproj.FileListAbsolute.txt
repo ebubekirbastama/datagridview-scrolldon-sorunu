@@ -1,0 +1,11 @@
+C:\Users\siyahmuhafiz\source\repos\PropertyGrid Ornegi\bin\Debug\PropertyGrid Ornegi.exe.config
+C:\Users\siyahmuhafiz\source\repos\PropertyGrid Ornegi\bin\Debug\PropertyGrid Ornegi.exe
+C:\Users\siyahmuhafiz\source\repos\PropertyGrid Ornegi\bin\Debug\PropertyGrid Ornegi.pdb
+C:\Users\siyahmuhafiz\source\repos\PropertyGrid Ornegi\obj\Debug\PropertyGrid Ornegi.csproj.AssemblyReference.cache
+C:\Users\siyahmuhafiz\source\repos\PropertyGrid Ornegi\obj\Debug\PropertyGrid_Ornegi.Form1.resources
+C:\Users\siyahmuhafiz\source\repos\PropertyGrid Ornegi\obj\Debug\PropertyGrid_Ornegi.Properties.Resources.resources
+C:\Users\siyahmuhafiz\source\repos\PropertyGrid Ornegi\obj\Debug\PropertyGrid Ornegi.csproj.GenerateResource.cache
+C:\Users\siyahmuhafiz\source\repos\PropertyGrid Ornegi\obj\Debug\PropertyGrid Ornegi.csproj.CoreCompileInputs.cache
+C:\Users\siyahmuhafiz\source\repos\PropertyGrid Ornegi\obj\Debug\PropertyGrid Ornegi.exe
+C:\Users\siyahmuhafiz\source\repos\PropertyGrid Ornegi\obj\Debug\PropertyGrid Ornegi.pdb
+C:\Users\siyahmuhafiz\source\repos\PropertyGrid Ornegi\obj\Debug\PropertyGrid_Ornegi.EBSDatagridview.resources
